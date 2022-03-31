@@ -1,5 +1,7 @@
 secondFile.txt - first line update in git_1
 secondFile.txt - second line update in git_1
+secondFile.txt - first line update in git_2
+secondFile.txt - second line update in git_2
 secondFile.txt - third line
 secondFile.txt - fourth line
 secondFile.txt - fifth line
