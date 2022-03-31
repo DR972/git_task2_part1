@@ -1,8 +1,8 @@
 firstFile.txt - first line
 firstFile.txt - second line
-firstFile.txt - third line
+firstFile.txt - third line update in git_1
 firstFile.txt - fourth line
-firstFile.txt - fifth line
+firstFile.txt - fifth line update in git_1
 firstFile.txt - sixth line
 firstFile.txt - seventh line
 firstFile.txt - eighth line
