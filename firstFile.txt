@@ -6,5 +6,5 @@ firstFile.txt - fifth line update in git_1
 firstFile.txt - sixth line
 firstFile.txt - seventh line
 firstFile.txt - eighth line
-firstFile.txt - ninth line
-firstFile.txt - tenth line
+firstFile.txt - ninth line update in git_1
+firstFile.txt - tenth line update in git_1
