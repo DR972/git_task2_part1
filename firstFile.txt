@@ -1,7 +1,7 @@
 firstFile.txt - first line update in folder2:git_1
 firstFile.txt - second line update in folder2:git_1
 firstFile.txt - third line update in git_1
-firstFile.txt - fourth line
+firstFile.txt - fourth line update in folder1:git_1 (step 20)
 firstFile.txt - fifth line update in git_1
 firstFile.txt - sixth line
 firstFile.txt - seventh line
